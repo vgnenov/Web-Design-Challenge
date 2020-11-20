@@ -13,12 +13,17 @@ Our website will consist of 7 pages total, including:
     - Code from one of the visualization page ![Screenshot](Screenshots/maxtemp2.JPG "Screenshot")
 
 - A Comparions page which will contain all visualizations on the same page
-    - Code snippet from comparion page ![Screenshot](Screenshots/navbarcomp.JPG "Screenshot")
+    - Code snippet from comparison page ![Screenshot](Screenshots/navbarcomp.JPG "Screenshot")
+
 - A Data Page which will display a responsive table containing the data used in the visualizations
 
 Utilizing JavaScript, Bootstrap, HTML and CSS the above web pages will be created in VS Code and deployed via GitHub
 
 ## Results and Conclusions (Condensed)
+### Screenshots of Deployed Website
+
+#### Landing Page
+![Screenshot](Screenshots/landing.JPG "Screenshot")
 
 
 
