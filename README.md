@@ -7,10 +7,10 @@ Create a visualization dashboard website plotting weather data that was previous
 Our website will consist of 7 pages total, including:
 - A landing page which will have an explanation of the project 
     
-    - Landing Page Code ![Screenshot](Screenshots/sam1.JPG "Screenshot")
+    - Landing Page Code Snippet ![Screenshot](Screenshots/sam1.JPG "Screenshot")
 
 - Four visualization pages, each with a descriptive title and heading tage
-    - Code from one of the visualization page ![Screenshot](Screenshots/maxtemp2.JPG "Screenshot")
+    - Code snippet from one of the visualization page ![Screenshot](Screenshots/maxtemp2.JPG "Screenshot")
 
 - A Comparions page which will contain all visualizations on the same page
     - Code snippet from comparison page ![Screenshot](Screenshots/navbarcomp.JPG "Screenshot")
