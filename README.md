@@ -25,6 +25,12 @@ Utilizing JavaScript, Bootstrap, HTML and CSS the above web pages will be create
 #### Landing Page
 ![Screenshot](Screenshots/landing.JPG "Screenshot")
 
+#### Comparison Page
+![Screenshot](Screenshots/comp.JPG "Screenshot")
+
+#### Responsive Data Table
+![Screenshot](Screenshots/weatherdata.JPG "Screenshot")
+
 
 
 
