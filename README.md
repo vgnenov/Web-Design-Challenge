@@ -5,10 +5,18 @@ Create a visualization dashboard website plotting weather data that was previous
 
 ## Process
 Our website will consist of 7 pages total, including:
-- A landing page which will have an explanation of the project
+- A landing page which will have an explanation of the project 
+    
+    - ![Screenshot](Screenshots/sam1.JPG "Screenshot")
 - Four visualization pages, each with a descriptive title and heading tage
 - A Comparions page which will contain all visualizations on the same page
 - A Data Page which will display a responsive table containing the data used in the visualizations
 
 Utilizing JavaScript, Bootstrap, HTML and CSS the above web pages will be created in VS Code and deployed via GitHub
+
+## Results and Conclusions (Condensed)
+
+
+
+
 
